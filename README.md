@@ -1,7 +1,7 @@
 # Horiseon-Marketing
 
 ## Purpose
-A refactor of Horiseon's website to meet accessability standards allowing for search engine optimization
+A refactor of Horiseon's website to meet accessability standards. This will allow the website to be optimized for search engines.
 
 ## Built With
 *HTML
